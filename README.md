@@ -40,18 +40,7 @@ Soy un programador web apasionado y motivado por aprender y trabajar. Me destaco
 * <img src="https://www.preving.com/media/logo_formalia.jpg" alt="formalia" width="15" height="15"/> Prevención y actuación ante emergencias
 * <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/014d2915989867.56299bf64a48d.jpg" alt="ufdv" width="15" height="15"/> Inteligencia emocional
 
-## Aptitudes
-* Resolución de conflictos
-* Organización y gestión del tiempo
-* Trabajo en equipo
-* Pasión por las nuevas tecnologías
-* Formación continua
-
 ## Idiomas
 * <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-spain_1f1ea-1f1f8.png" alt="es" width="15" height="15"/> Español: Idioma nativo
 * <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-united-kingdom_1f1ec-1f1e7.png" alt="gb" width="15" height="15"/> Inglés: ◻️◻️◻️◻️◻️◼️ C1 - Avanzado
 * <img src="https://em-content.zobj.net/thumbs/120/twitter/322/flag-germany_1f1e9-1f1ea.png" alt="de" width="15" height="15"/> Alemán: ◻️◼️◼️◼️◼️◼️ A1 - Principiante
-
-## Información adicional
-* Permiso de conducir B. con fecha 2019
-* Edición de wikis
