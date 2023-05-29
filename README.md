@@ -15,9 +15,9 @@ Soy un programador web apasionado y motivado por aprender y trabajar. Me destaco
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/><br /><sub>GitHub</sub></td>
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/><br /><sub>Java</sub></td>
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/><br /><sub>JavaScript</sub></td>
+      <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/><br /><sub>HTML5</td>
      </tr>
     <tr>
-      <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/><br /><sub>HTML5</td>
       <td align="center"><br /><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij idea" width="40" height="40"/><br /><sub>IntelliJ IDEA</sub></td>
       <td align="center"><br /><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/><br /><sub>MySQL</sub></td>
       <td align="center"><br /><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/><br /><sub>PhotoShop</sub></td>
@@ -25,6 +25,8 @@ Soy un programador web apasionado y motivado por aprender y trabajar. Me destaco
       <td align="center"><br /><img src="https://objectpartners.com/wp-content/uploads/2015/02/spring-boot-project-logo.png" alt="spring-boot" width="40" height="40"/><br /><sub>Spring Boot</sub></td>
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/><br /><sub>TypeScript</sub></td>
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40"/><br /><sub>VSC</sub></td>
+      <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="40" height="40"/><br /><sub>Webflow</sub></td>
+      <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/><br /><sub>Zapier</sub></td>
     </tr>
 </table>
 
