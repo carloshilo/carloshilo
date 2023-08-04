@@ -20,6 +20,7 @@ Soy un programador web apasionado y motivado por aprender y trabajar. Me destaco
     <tr>
       <td align="center"><br /><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij idea" width="40" height="40"/><br /><sub>IntelliJ IDEA</sub></td>
       <td align="center"><br /><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/><br /><sub>MySQL</sub></td>
+      <td align="center"><br /><img src="https://res.cloudinary.com/imagist/image/fetch/f_auto/q_auto/c_scale,w_2624/https://images.ctfassets.net/dm4oa8qtogq0/4LP1ix40a63dpOPZhila2Z/6d22ac51f33854d1e759e0f5fa3dd210/make-app-icon-circle.png?_a=ATCqVAA0" alt="mysql" width="40" height="40"/><br /><sub>Make</sub></td>
       <td align="center"><br /><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/><br /><sub>PhotoShop</sub></td>
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><br /><sub>Postman</sub></td>
       <td align="center"><br /><img src="https://objectpartners.com/wp-content/uploads/2015/02/spring-boot-project-logo.png" alt="spring-boot" width="40" height="40"/><br /><sub>Spring Boot</sub></td>
