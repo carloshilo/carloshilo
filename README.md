@@ -35,19 +35,21 @@ Soy un programador web apasionado y motivado por aprender y trabajar. Me destaco
 </table>
 
 ## Experiencia laboral
-* __Desarrollador Web__. FunTech Rocket - Madrid. *Informática* (2023-)
-  * *HTML5, CSS3, JavaScript, Webflow, Zapier, Make, Canva*
+* <img src="https://media.licdn.com/dms/image/C4D0BAQHKOgSVkbVaOw/company-logo_200_200/0/1668541534783/funtechrocket_logo?e=1712793600&v=beta&t=ZO81c_PuodIuEhP3tjjFELjLc14kARjVK-uXY1589x0" alt="funtech-rocket" width="15" height="15"/> __Desarrollador Web__. FunTech Rocket Education - Madrid. *Informática* (2023-)
+  * *HTML5, CSS3, JavaScript, TypeScript, Webflow, Zapier, Canva, Make, Stripe*
     
 ## Formación
-* __Programación Full Stack: aplicaciones web__. Tokio School - Madrid. *Informática* (2022-2023)
+* <img src="https://pbs.twimg.com/profile_images/880688181263380481/_-_IdHpf_400x400.jpg" alt="tokioschool" width="15" height="15"/> __Programación Full Stack: aplicaciones web__. Tokio School - Madrid. *Informática* (2022-2023)
   * **Programación Backend: Java con Spring framework** - *Eclipse, Git, Github, IntelliJ IDEA, Java, MySQL, Postman, Spring Boot*
   * **Programación Front-end: HTML5, CSS3 y JavaScript** - *Angular 2+, Atom, Bootstrap, CSS3, HTML5, JavaScript, TypeScript, Visual Studio Code*
 
 ## Diplomas
+* <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="15" height="15"/> React - La Guía Completa: Hooks Context Redux MERN +15 Apps
 * <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="15" height="15"/> JavaScript Moderno: Guía para dominar el lenguaje
 * <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="15" height="15"/> Angular & Spring Boot: Creando web app full stack
 * <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="15" height="15"/> SEO y posicionamiento en Google
 * <img src="https://user-images.githubusercontent.com/99825816/233783642-abeca660-581d-43e1-8427-e5eb6ae9696f.png" alt="cambridge" width="15" height="15"/> Cambridge C1 Advanced
+* <img src="https://media.licdn.com/dms/image/C4E03AQEiGDEo3pSwCA/profile-displayphoto-shrink_800_800/0/1516835363397?e=1710374400&v=beta&t=cY54v4jerZPGObMNlNPyorCbWn227LOzvtVJhpTkGZc" alt="constanza-business-protocol-school" width="15" height="15"/> Experto en Analítica y Usabilidad Web
 * <img src="https://www.preving.com/media/logo_formalia.jpg" alt="formalia" width="15" height="15"/> Prevención y actuación ante emergencias
 * <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/014d2915989867.56299bf64a48d.jpg" alt="ufdv" width="15" height="15"/> Inteligencia emocional
 
