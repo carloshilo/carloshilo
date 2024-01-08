@@ -26,10 +26,11 @@ Soy un programador web apasionado y motivado por aprender y trabajar. Me destaco
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/><br /><sub>React</sub></td>
       <td align="center"><br /><img src="https://objectpartners.com/wp-content/uploads/2015/02/spring-boot-project-logo.png" alt="spring-boot" width="40" height="40"/><br /><sub>Spring Boot</sub></td>
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/><br /><sub>TypeScript</sub></td>
+      <td align="center"><br /><img src="https://avatars.githubusercontent.com/u/65625612?s=48&v=4" alt="visual-studio-code" width="40" height="40"/><br /><sub>Vite</sub></td>
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40"/><br /><sub>VSC</sub></td>
-      <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="40" height="40"/><br /><sub>Webflow</sub></td>
     </tr>
     <tr>
+      <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" alt="webflow" width="40" height="40"/><br /><sub>Webflow</sub></td>
       <td align="center"><br /><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/><br /><sub>Zapier</sub></td>
      </tr>
 </table>
